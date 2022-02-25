@@ -1,0 +1,147 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    
+    width: 20%;
+    height: 20%;
+    border-radius: 30px;
+}
+.star{
+    border: solid black;
+    border-radius: 50px;
+    font-size: 50px;
+    
+   
+}
+.but{
+    text-align: center;
+    font-size: 10px;
+}
+.ab{
+    width: 100%;
+}
+header{
+    padding: 20%
+    
+    font-size: 30px;
+}
+
+.bien{
+    font-size: 100px;
+}
+.os{
+    font-size: 40px;
+}
+.bon{
+    font-size: 100px;
+}
+.toi{
+    font-size: 20px;
+}
+
+.containeur{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer{
+  
+width: 100%;
+   
+   color: black;
+   font-size: 40px;
+   background-color: grey;
+}
+
+    .tete{
+        display: flex;
+        justify-content: space-around;
+        
+    }
+.ms{
+    border-radius: 30px;
+  
+}
+
+.SANI{
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+}
+
+.SAN{
+    display: flex;
+    border-radius: 30px;
+
+}
+.os{
+    
+    text-align: center;
+
+}
+.para{
+    display: contents;
+    text-align: center;
+}
+.A{
+    
+    width: 100px;
+}
+
+.sos{
+    text-align: right;
+}
+.Sec{
+    display: flex;
+    
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    
+ 
+}
+h3{
+    text-align: center;
+}
+
+.foot{
+    display: flex;
+    
+}
+button{
+    height: 20%;
+
+    border: solid black 3px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+body{
+   
+font-family: arial;
+font-size: 50px;
+}
+
+.min{
+    border: solid black 50px;
+background-position: right;
+}
+form{
+    background-color: blue;
+}
+
+.power{
+  margin-left: 30px;
+}
+
+.cham{
+    display: block;
+}
+
